@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1e035ZXZy8lbCKl9t1UOIOgpVdQ0qH0mYakkOswNvbs=",
+  "Source": "PetWebApi",
+  "BasePath": "_content/PetWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
